@@ -1,0 +1,13 @@
+.next
+out
+node_modules
+.DS_Store
+logs
+npm-debug.log
+.env
+.env.local
+.env.*.local
+.vercel
+*.swp
+*.swo
+*~
